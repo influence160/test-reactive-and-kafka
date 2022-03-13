@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/kafka-streams/3.0.0/kafka-streams-3.0.0.jar" sourcepath="M2_REPO/org/apache/kafka/kafka-streams/3.0.0/kafka-streams-3.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/kafka-clients/3.0.0/kafka-clients-3.0.0.jar" sourcepath="M2_REPO/org/apache/kafka/kafka-clients/3.0.0/kafka-clients-3.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/luben/zstd-jni/1.5.0-2/zstd-jni-1.5.0-2.jar" sourcepath="M2_REPO/com/github/luben/zstd-jni/1.5.0-2/zstd-jni-1.5.0-2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar" sourcepath="M2_REPO/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/xerial/snappy/snappy-java/1.1.8.1/snappy-java-1.1.8.1.jar" sourcepath="M2_REPO/org/xerial/snappy/snappy-java/1.1.8.1/snappy-java-1.1.8.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/rocksdb/rocksdbjni/6.19.3/rocksdbjni-6.19.3.jar" sourcepath="M2_REPO/org/rocksdb/rocksdbjni/6.19.3/rocksdbjni-6.19.3-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3-sources.jar"/>
+</classpath>

@@ -1,0 +1,5 @@
+com\othmen\testspring\webflux\controller\Controller1.class
+com\othmen\testspring\webflux\GetMono1ApplicationRunner.class
+com\othmen\testspring\webflux\SpringBootWebFluxApplication.class
+com\othmen\testspring\webflux\GetMono2ApplicationRunner.class
+com\othmen\testspring\webflux\GetFlux1ApplicationRunner.class
